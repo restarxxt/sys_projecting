@@ -16,7 +16,7 @@ Finished! Result =  100000
 
 =======TASK 6=======
 Finished! Result =  100000
---- 185.57811307907104 seconds ---
+--- 493.15377020835876 seconds ---
 
 
 =======TASK 7=======
