@@ -65,12 +65,11 @@ def sixth_task(counter):
     loop = True
     for i in range(10000):
         while loop is not False:
-            with counter._lock:
-                oldValue = map.get(key)
-                newValue = oldValue
-                newValue += 1
-                if (map.replace_if_same(key, oldValue, newValue)): 
-                    break
+            oldValue = map.get(key)
+            newValue = oldValue
+            newValue += 1
+            if (map.replace_if_same(key, oldValue, newValue)): 
+                break
 
 def seventh_task(counter):
 	hz = hazelcast.HazelcastClient()
