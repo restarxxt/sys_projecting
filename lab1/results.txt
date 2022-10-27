@@ -1,0 +1,24 @@
+└─$ python file.py
+=======TASK 3=======
+Finished! Result =  100000
+--- 0.3244013786315918 seconds ---
+
+
+=======TASK 4=======
+Finished! Result =  18032
+--- 123.84115409851074 seconds ---
+
+
+=======TASK 5=======
+Finished! Result =  100000
+--- 352.23577094078064 seconds ---
+
+
+=======TASK 6=======
+Finished! Result =  100000
+--- 185.57811307907104 seconds ---
+
+
+=======TASK 7=======
+Finished! Result =  100000
+--- 83.88951992988586 seconds ---
