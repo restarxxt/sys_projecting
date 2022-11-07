@@ -1,0 +1,32 @@
+=======TASK 1=======
+--- 110.99055695533752 seconds ---
+Counter value: 17339
+=======TASK 2=======
+--- 85.28256297111511 seconds ---
+Counter value: 100000
+=======TASK 3=======
+--- 608.4760158061981 seconds ---
+Counter value: 100000
+=======TASK 4=======
+--- 146.13456416130066 seconds ---
+Counter value: 100000
+
+
+
+
+USER_ID =  4
+Counter =  100000
+version  =  100000 
+
+USER_ID =  2
+Counter =  100000
+version  =  0 
+
+USER_ID =  1
+Counter =  17339
+version  =  0 
+
+USER_ID =  3
+Counter =  100000
+version  =  0 
+
